@@ -1,2 +1,2 @@
 # Kaggle-Data-Analytics
-Data analysis using Jupyter Notebook and Kaggle datasets
+Data analytics and machine learning using Jupyter Notebook and Kaggle datasets
